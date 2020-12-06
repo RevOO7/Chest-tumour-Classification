@@ -1,1 +1,1 @@
-# lung-tumour-Classification
+# chest-tumour-Classification
